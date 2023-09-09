@@ -1,6 +1,6 @@
 # tech-wizardry.github.io
 
-Please find Links to all hosted content in github by [`@tech-wizard`](https://www.github.com/tech-wizard)
+Please find Links to all hosted content in github by [`@tech-wizardry`](https://www.github.com/tech-wizardry)
 
 Connect With Me
 
